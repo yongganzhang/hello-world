@@ -1,8 +1,8 @@
 package com.shsxt.app;
+
 /**
  * 测试代码冲突1231
  * @author Mr.YongGan.Zhang
- *
  */
 public class Test {
 	
